@@ -101,7 +101,7 @@ Voltix is a demonstration project. All brands, products, prices, reviews and con
 
 ## Author
 
-**Name:** ______________  
-**Register No.:** ______________  
+**Name:** Thirilok K
+**Register No.:** 24MIC0100 
 **Course:** Front End Design and Testing (CSI3029), VIT  
 **Faculty:** Dr.V.Arulkumar (18875)
