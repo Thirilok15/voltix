@@ -77,15 +77,7 @@ No build step or dependencies are required.
 | Lighthouse, Shop | Performance 75, Accessibility 94, Best Practices 96, SEO 100 |
 | Lighthouse, Contact | Performance 98, Accessibility 93, Best Practices 96, SEO 100 |
 
-## Screenshots
 
-Add screenshots to a `screenshots/` folder and reference them here:
-
-```markdown
-![Home](screenshots/home.png)
-![Shop](screenshots/shop.png)
-![Mobile view](screenshots/mobile.png)
-```
 
 ## Future Improvements
 
